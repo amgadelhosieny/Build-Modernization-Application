@@ -18,3 +18,8 @@ For this use case, you have identified a monolithic application in your company,
 # Solution
 
 Revamping the legacy monolithic applications to be cloud native utilizing Microservices components to be integrated and used by other entities.
+
+
+
+
+![Screenshot 2023-12-11 223745](https://github.com/amgadelhosieny/Build-Modernization-Application/assets/139463395/a0a8332c-c5d2-42c8-9410-7f43c8158179)
